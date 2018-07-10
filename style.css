@@ -1,0 +1,28 @@
+.image-one {
+  background-image: url("Images/blackpanther2.jpg");
+  background-size: cover;
+  background-position: center;
+  width: 200px;
+  height: 200px;
+}
+.image-two {
+  background-image: url("Images/blackish.jpg");
+  background-size: cover;
+  background-position: center;
+  width: 200px;
+  height: 200px;
+}
+.image-three {
+  background-image: url("Images/music.jpg");
+  background-size: cover;
+  background-position: center;
+  width: 200px;
+  height: 200px;
+}
+.image-four {
+  background-image: url("Images/prog1.jpg");
+  background-size: cover;
+  background-position: center;
+  width: 200px;
+  height: 200px;
+}
